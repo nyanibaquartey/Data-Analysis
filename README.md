@@ -1,7 +1,7 @@
-#### Data-Analysis Projects
+# Data-Analysis Projects
 All data analysis projects
 
-## COVID 19 Data Exploration
+### COVID 19 Data Exploration
 - **Code**: [COVID Data Exploration Project](https://github.com/nyanibaquartey/Data-Analysis/blob/main/CovidDataExplorationProject.sql)
 
 - **Description**: The dataset contains records of COVID-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
