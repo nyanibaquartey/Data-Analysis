@@ -1,5 +1,5 @@
-# Data-Analysis Projects
-All data analysis projects
+# Data Projects
+All data projects
 
 ### COVID 19 Data Exploration
 - **Code**: [COVID Data Exploration Project](https://github.com/nyanibaquartey/Data-Analysis/blob/main/CovidDataExplorationProject.sql)
