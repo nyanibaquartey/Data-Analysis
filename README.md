@@ -8,14 +8,14 @@ All data projects
 
 - **Skills**: SQL - Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-- **Technology**: Microsoft SQL Server
+- **Tool**: Microsoft SQL Server
 
 ### Nashville Housing Data Cleaning
-- **Code**: [Nashville Housing Data Cleaning]()
+- **Code**: [Nashville Housing Data Cleaning](https://github.com/nyanibaquartey/Data-Analytics/blob/main/NashvilleHousingDataCleaningProject.sql)
 
-- **Description**: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project involved data loading, data cleaning and preprocessing.
+- **Description**: The dataset contains a list of houses sold in Nashville between 2013 and 2019. This project involved data loading, data cleaning and preprocessing.
 
-- **Skills**: Removing duplicates, .
+- **Skills**: SQL - Removing duplicates, .
 
-- **Technology**: SQL Server
+- **Tool**: SQL Server
 
