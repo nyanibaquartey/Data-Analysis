@@ -10,3 +10,12 @@ All data projects
 
 - **Technology**: Microsoft SQL Server
 
+### Nashville Housing Data Cleaning
+- **Code**: [Nashville Housing Data Cleaning]()
+
+- **Description**: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project involved data loading, data cleaning and preprocessing.
+
+- **Skills**: Removing duplicates, .
+
+- **Technology**: SQL Server
+
