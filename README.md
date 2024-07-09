@@ -21,7 +21,7 @@ All data projects
 
 - **Description**: The dataset contains a list of houses sold in Nashville between 2013 and 2019. The project involved data loading, data cleaning and preprocessing.
 
-- **Skills**: SQL - Removing duplicates with CTE, populating nulls, splitting columns, standarding date formats.
+- **Skills**: SQL - Removing duplicates with CTE, populating nulls, splitting columns, standardizing date formats.
   
 - **Tool**: Microsoft SQL Server
 
